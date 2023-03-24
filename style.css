@@ -32,7 +32,7 @@ nav a{
 nav{
     display: flex;
     align-items: center;
-    gap: gvw;
+    gap: 6vw;
 }
 
 main{
